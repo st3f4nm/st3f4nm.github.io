@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 7.7
+AppType=Entry
+
+[Files]
+Application=.\Form 17 DE.ent
+InputData=.\F17 Test.csdb
+Paradata=.\Form 17 DE.cslog
+
+[Parameters]
+F17_BRGY_PSGC=
+F17_CITY_MUN_PSGC=
+F17_EAN=
+F17_EC=
+F17_NOE=
+F17_PROV_PSGC=
+F17_REG_PSGC=

@@ -1,0 +1,30 @@
+﻿[Run Information]
+Version=CSPro 7.7
+AppType=Entry
+ShowInApplicationListing=Hidden
+
+
+[DataEntryInit]
+StartMode=Modify
+Key=030808003007000400100010001
+Lock=Add,Delete,Verify
+AutoAdd=No
+
+
+[Files]
+Application=HPQF2.ent
+InputData=Data\HPQ\H030808003007000400100010001.csdbe|password=1234
+Paradata=HPQF2.cslog
+
+
+[PARAMETERS]
+REG_PSGC=03
+PROV_PSGC=08
+CITY_MUN_PSGC=08
+BRGY_PSGC=003
+EAN=007000
+BSN=4001
+HUSN=0001
+HSN=0001
+NUMBER_VISIT=1
+Dataitem=J01_WORRIEDY

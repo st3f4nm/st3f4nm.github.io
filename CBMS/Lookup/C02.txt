@@ -1,0 +1,70 @@
+00000 - No Grade Completed
+01000 - Nursery
+02000 - Kindergarten
+10011 - Grade 1                         
+10012 - Grade 2   
+10013 - Grade 3       
+10014 - Grade 4         
+10015 - Grade 5                         
+10016 - Grade 6 
+10017 - Grade 7 (Old Curriculum)       
+10018 - Graduate       
+10003 - Alternative Learning System (ALS)
+10004 - IPEd 
+10005 - Madrasah
+10006 - SPED
+24011 - Grade 7/1st Year
+24012 - Grade 8/2nd Year
+24013 - Grade 9/3rd Year
+24014 - Grade 10/4th Year
+24015 - JHS Graduate/HS Graduate (old curriculum)
+24003 - Alternative Learning System (ALS)
+24004 - IPEd
+24005 - Madrasah
+24006 - SPED
+34011 - Grade 11  (Academic Track)
+34012 - Grade 12  (Academic Track)
+34013 -  Academic Track - SHS Graduate (Strand unknown to respondent)
+34014 - General Academic Strand Graduate
+34015 - Accountancy, Business and Management Strand Graduate
+34016 - Science, Technology, Engineering and Mathematics Strand Graduate
+34017 - Humanities and Social Sciences Strand Graduate
+34018 - Pre-Baccalaureate Maritime Specialization Graduate   
+34021 - Grade 11  (Arts and Design Track)
+34022 - Grade 12  (Arts and Design Track)
+34023 - Arts and Design Track - SHS Graduate (Strand unknown to respondent)    
+34024 - Music Strand Graduate
+34025 - Theater Strand Graduate
+34026 - Visual Arts Strand Graduate
+34027 - Media Arts Strand Graduate
+34028 - Dance Strand Graduate
+34031 - Grade 11 (Sports Track)
+34032 - Grade 12 (Sports Track)
+34033 - Sports Track - SHS Graduate 
+35011 - Grade 11  (Technology and Livelihood Education and Technical-Vocational Livelihood Track)
+35012 - Grade 12 (Technology and Livelihood Education and Technical-Vocational Livelihood Track)
+35013 -  Technology and Livelihood Education and Technical-Vocational Livelihood Track- SHS Graduate (Strand unknown to respondent)
+35014 - Home Economics Strand Graduate
+35015 - Information and Communications Technology Strand Graduate
+35016 - Industrial Arts Strand Graduate
+35017 - Agri-Fishery Arts Strand Graduate
+35018 - TVL Maritime Specialization Strand Graduate
+40001 - 1st Year
+40002 - 2nd Year
+40003 - 3rd Year
+49998 - If Graduate, Specify Program __________
+50001 - 1st Year         
+50002 - 2nd Year   
+50003 - 3rd Year
+59998 - If Graduate, Specify Program __________ 
+60001 - 1st Year  
+60002 - 2nd Year                                                
+60003 - 3rd Year    
+60004 - 4th Year            
+60005 - 5th Year    
+60006 - 6th Year     
+69998 - If Graduate, Specify Program __________
+70010 - Undergraduate   
+79998 - If Graduate, Specify Program __________
+80010 - Undergraduate
+89998 - If Graduate, Specify Program __________

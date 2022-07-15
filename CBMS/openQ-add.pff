@@ -1,0 +1,31 @@
+﻿[Run Information]
+Version=CSPro 7.6
+AppType=Entry
+ShowInApplicationListing=Hidden
+
+[Files]
+Application=.\HPQF2.ent
+InputData=|type=None
+Paradata=.\HPQF2.cslog
+
+[DataEntryInit]
+StartMode=Add
+AutoAdd=No
+
+[UserFiles]
+forApp=
+lookFile=
+
+[Parameters]
+BGY=006
+BSN=0004
+EA=001000
+GEOTAG=1
+HSN=0004
+HUSN=0005
+Lat=16.4830720
+Long=120.3251399
+MUN=02
+PRV=28
+REG=01
+Number_Visit=1

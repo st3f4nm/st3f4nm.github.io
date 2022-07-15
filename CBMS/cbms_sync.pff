@@ -1,0 +1,28 @@
+﻿[Run Information]
+Version=CSPro 7.7
+AppType=Entry
+ShowInApplicationListing=Hidden
+
+[DataEntryInit]
+StartMode=Add
+
+[Files]
+Application=.\cbms_sync.ent
+InputData=|type=None
+
+[ExternalFiles]
+HPQF2_DICT=..\CBMS DV Sec A-I\Data\HPQ\H030808003007000400100010001.csdbe
+
+[Parameters]
+BGY=001
+BSN=0001
+EA=000001
+HSN=0001
+HUSN=0001
+MUN=01
+PRV=01
+REG=01
+SYNC=1
+UN=
+PW=
+URL=

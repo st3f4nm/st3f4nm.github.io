@@ -1,0 +1,19 @@
+﻿[Run Information]
+Version=CSPro 7.7
+AppType=Entry
+
+[DataEntryInit]
+StartMode=Add
+
+[Files]
+Application=.\CBMS_DV_SECA-I.ent
+InputData=|type=None
+
+[ExternalFiles]
+HPQF2_DICT=|type=None
+
+[UserFiles]
+forApp=
+
+[Parameters]
+NUMBER_VISIT=1

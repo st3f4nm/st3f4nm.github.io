@@ -1,0 +1,43 @@
+01000 - Nursery                       
+02000 - Kindergarten 
+10011 - Grade 1                         
+10012 - Grade 2   
+10013 - Grade 3       
+10014 - Grade 4         
+10015 - Grade 5                         
+10016 - Grade 6 
+10017 - Grade 7 (Old Curriculum)       
+10003 - Alternative Learning System (ALS)
+10004 - IPEd 
+10005 - Madrasah
+10006 - SPED
+24011 - Grade 7/1st Year
+24012 - Grade 8/2nd Year
+24013 - Grade 9/3rd Year
+24014 - Grade 10/4th Year
+24003 - Alternative Learning System (ALS)
+24004 - IPEd
+24005 - Madrasah
+24006 - SPED
+34011 - Grade 11  (Academic Track)
+34012 - Grade 12  (Academic Track)
+34021 - Grade 11  (Arts and Design Track)
+34022 - Grade 12  (Arts and Design Track)
+34031 - Grade 11 (Sports Track)
+34032 - Grade 12 (Sports Track)
+35011 - Grade 11  (Technology and Livelihood Education and Technical-Vocational Livelihood Track)
+35012 - Grade 12 (Technology and Livelihood Education and Technical-Vocational Livelihood Track)
+40001 - 1st Year
+40002 - 2nd Year
+40003 - 3rd Year
+50001 - 1st Year         
+50002 - 2nd Year   
+50003 - 3rd Year
+60001 - 1st Year  
+60002 - 2nd Year                                                
+60003 - 3rd Year    
+60004 - 4th Year            
+60005 - 5th Year    
+60006 - 6th Year     
+70010 - Undergraduate   
+80010 - Undergraduate
